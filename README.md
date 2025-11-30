@@ -1,4 +1,4 @@
-# markdown-notes-and-todo-on-browser
+# markdown-notes-and-todo-on-local-browser
 markdown notes and todo without sync on your any browser 
 
 hi all there is a .html file that you run on you any browser (tested on :chrome canary) and any device doesn't matter just keep html file in your device anytime you want to take notes open that in browser and write it .
